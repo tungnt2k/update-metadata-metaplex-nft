@@ -1,0 +1,24 @@
+{
+  "6RmZ9tnwhYwKjaNvf1rwA9Widub5z49YUzsq7wd83mWC": {
+    "key": 4,
+    "updateAuthority": "2MqgzhMdCg6tG42YeXQh17Gx9DLdWBVkYb18HFWmtjQc",
+    "mint": "6RmZ9tnwhYwKjaNvf1rwA9Widub5z49YUzsq7wd83mWC",
+    "data": {
+      "name": "Naga  Clover",
+      "symbol": "CLOVER II",
+      "uri": "https://arweave.net/dwH9wUufpTe06SYy9N9Xa2qSEVtyq99T7Yl7MB1V43w",
+      "sellerFeeBasisPoints": 0,
+      "creators": [
+        {
+          "address": "2MqgzhMdCg6tG42YeXQh17Gx9DLdWBVkYb18HFWmtjQc",
+          "verified": 1,
+          "share": 100
+        }
+      ]
+    },
+    "primarySaleHappened": 0,
+    "isMutable": 1,
+    "editionNonce": 253,
+    "tokenStandard": 0
+  }
+}
